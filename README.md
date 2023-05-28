@@ -8,8 +8,13 @@
 <h2> Punto 1: Link de Figma </h2>
 <a href="https://www.figma.com/file/g9bAjwYg9xbALZvVkAYwDQ/Untitled?type=design&node-id=0%3A1&t=SftlKWaN1TVlubzT-1"> Link de Figma </a>
 
+<br>
+
+<a href ="https://cjgalvan.github.io/taller-9-full-stack/"> Link Pagina </a>
+
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/html-css.png" alt="css">
+
