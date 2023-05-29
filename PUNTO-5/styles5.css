@@ -1,0 +1,24 @@
+.sub_verde{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.doble__tachado{
+    text-decoration: overline underline;
+}
+
+.letra__big {
+    font-size: 250%;
+   
+}
+.blue{
+    color: blue;
+}
+
+.red1 {
+    color: red;
+    font-weight: bold;
+}

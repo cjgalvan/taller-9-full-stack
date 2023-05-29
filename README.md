@@ -6,7 +6,7 @@
     <p>Profesor: Cristian Patiño<p>  
 
 <h2> Punto 1: Link de Figma </h2>
-<a href="https://www.figma.com/file/g9bAjwYg9xbALZvVkAYwDQ/Untitled?type=design&node-id=0%3A1&t=SftlKWaN1TVlubzT-1"> Link de Figma </a>
+<a href="https://www.figma.com/file/ALHv5pzMZbcwiEOIFUSiM2/Carlos-Galvan---Figma?type=design&t=dxTMuQlCGFCHkSUh-1"> Link de Figma </a>
 
 <br>
 
@@ -17,4 +17,11 @@
 
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/html-css.png" alt="css">
+
+<h2> Punto 4: </h2>
+<img src="./public/images/punto-4.png" alt="punto4">
+
+<h2> Punto 5: </h2>
+<img src="./public/images/punto-5.png" alt="punto5">
+
 
