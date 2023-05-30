@@ -1,0 +1,47 @@
+header {
+    margin: 0px 235px;
+    background: #D6AFDC;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+header li {
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+   
+
+
+
+}
+
+.somos {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    width: 70%;
+  
+   
+
+
+}
+
+.contact {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    width: 180%;
+    }
+
+
+
+button {
+    color: #fff;
+    background-color: blue;
+    padding: 12px 23px;
+    font-weight: bold;
+    cursor: pointer;
+   
+}

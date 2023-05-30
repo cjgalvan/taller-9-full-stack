@@ -4,6 +4,7 @@ header{
     justify-content: space-between;
     margin: 0px 100px;
 }
+
 .header_navigation{
     display: flex;
     align-items: center;
