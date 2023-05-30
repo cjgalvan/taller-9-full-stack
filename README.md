@@ -24,4 +24,12 @@
 <h2> Punto 5: </h2>
 <img src="./public/images/punto-5.png" alt="punto5">
 
+<h2> Punto 6: </h2>
+<img src="./public/images/punto-6.png" alt="punto6">
+
+<h2> Punto 7 - 8: </h2>
+<img src="./public/images/punto-7-8.png" alt="punto7-8">
+
+
+
 
