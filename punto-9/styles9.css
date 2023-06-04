@@ -1,0 +1,13 @@
+#footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    background-color: #FFFF00;
+    color: black;
+    
+}
+
+
+.tr{
+    list-style: none;
+}
