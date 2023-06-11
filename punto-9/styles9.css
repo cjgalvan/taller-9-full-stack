@@ -1,13 +1,21 @@
-#footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;   
-    background-color: #FFFF00;
+table{
     color: black;
-    
+    background-color: yellow;
+    border-collapse: collapse;
+    width: 55%;
+
+  
+}
+
+.titulo{
+    color:  red;
+    justify-items: center;    
+   
 }
 
 
-.tr{
-    list-style: none;
+td{
+    border: 2px dotted #000;
 }
+
+
